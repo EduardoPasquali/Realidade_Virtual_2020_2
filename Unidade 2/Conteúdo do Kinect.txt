@@ -1,0 +1,22 @@
+https://pt.wikipedia.org/wiki/Kinect
+https://www.uol.com.br/start/ultimas-noticias/2017/10/25/microsoft-para-producao-e-decreta-fim-do-kinect.htm
+
+O que é?
+Kinect é um sensor de movimentos desenvolvido para o Xbox 360 e Xbox One, junto com a empresa Prime Sense. O Kinect criou uma nova tecnologia capaz de permitir aos jogadores interagir com os jogos eletrônicos sem a necessidade de ter em mãos um controle/joystick, inovando no campo da jogabilidade.
+
+Lançamento
+O Kinect chegou nos EUA em 4 de novembro de 2010 e no Brasil em 18 de novembro do mesmo ano. 
+
+Sensores utilizados
+1º - Câmera RGB (Red, Green, Blue) que permite o reconhecimento facial da pessoa que está em frente do console.
+2º - Sensor de profundidade (Infra Vermelho), que permite que o acessório escaneie o ambiente a sua volta em três dimensões.
+3º - Microfone embutido, que além de captar as vozes mais próximas, consegue diferenciar os ruídos externos. Dessa forma, barulhos ao fundo não atrapalham o andamento do Kinect. O microfone também é capaz de detectar várias pessoas diferentes em uma sala (só não se sabe se a precisão é perfeita, já que é comum, por exemplo, irmãos com vozes parecidas).
+4º - Próprio processador e software.
+5º - Detecta 48 pontos de articulação do nosso corpo, ou seja, possui uma precisão muito elevada.
+
+Tecnologia e Evolução
+	A tecnologia apresentada no primeiro Kinect recebeu uma grandiosa evolução em todos os sentidos. O detector de movimentos ficou muito mais preciso, identificando facilmente gestos sutis como mover os dedos, girar o pulso ou mesmo suas expressões faciais e até identificar seu batimento cardíaco. É possível até identificar a força empregada em um movimento, como um soco.
+	Seu campo de visão é 60% maior e permite que ele funcione tanto em ambientes mais abertos como mais fechados, exigindo menos distância da câmera que o Kinect original. Nas últimas versões ele pode captar e interpretar os movimentos de até seis pessoas ao mesmo tempo, mesmo com baixa iluminação.
+	O novo Kinect usará uma qualidade de 1080p. O novo Kinect tem maior precisão sobre o seu antecessor. O microfone do Kinect permanecerá ativo em todos os momentos para que ele possa receber comandos de voz do usuário, quando necessário, mesmo se o console estiver ausente. Os usuários ainda podem fazer as funções do Kinect igual como fazia no seu antecessor, porém, pode-se controla-lo apenas com a voz.
+	Inicialmente, Kinect vinha junto com o console, mas atualmente é vendido separadamente, barateando o console.
+	Em outubro de 2017 o responsável de conteúdos para o dispositivo anunciou que a produção do Kinect acabou. Quebra de vendas e conteúdos para o dispositivo são as razões apontadas para o desfecho.

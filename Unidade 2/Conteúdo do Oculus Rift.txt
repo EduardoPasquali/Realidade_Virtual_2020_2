@@ -1,0 +1,31 @@
+https://pt.wikipedia.org/wiki/Oculus_Rift
+
+O que é?
+	Oculus Rift é um equipamento de realidade virtual para jogos eletrónicos, desenvolvido e fabricado pela Oculus VR.
+
+Lançamento
+	28 de março de 2016 com o preço inicial de $399,99
+
+O projeto
+	O projeto está sendo desenvolvido pela Oculus VR, que conseguiu 91 milhões de dólares de investidores, sendo que 2,4 milhões de dólares foram levantados pelo site Kickstarter. 
+	A companhia foi fundada por Palmer Luckey e os coofundadores da Scaleform Brendan Iribe, Michael Antonov e Nate Mitchell. Depois o coofundador da Id Software John Carmack foi contratado como Diretor Técnico.[2]
+	No dia 25 de março de 2014, a empresa foi comprada pela Facebook, Inc., tendo anunciado que manteriam o foco em desenvolver o mesmo tipo de produtos.
+
+As mudanças de preços e de acessibilidade
+	O Rift começou a ser disponibilizado a partir de Março de 2016, sem quaisquer tipos de comandos de movimento, com um PVP de 699€.
+	Os comandos do Rift chegaram tarde, a apenas 6 de Dezembro de 2016, vários meses após do começo da venda do HTC Vive com as lighthouses e com os comandos de movimentos.
+	No verão de 2017, a Oculus baixou o preço do bundle do Rift por tempo limitado para 399$, para atrair novos compradores interessados em VR que antes não o poderiam adquirir devido ao peço.
+	Após o verão, a empresa subiu o preço do bundle para 499$, retirando o comando da Xbox do bundle para baixar o preço.
+	No Oculus Connect 4, poucos meses depois da anterior subida de preço, a empresa voltou a baixar o bundle para o mesmo preço do que no verão (399$). Desta vez o bundle já não continha o comando da XBOX, tal como anteriormente.
+	O Rift atingiu o seu menor preço na Black Friday de 2017, sendo vendido por 349$ e tendo muitos novos fãs e compradores.
+	O Rift, devido às baixas de preço, tornou-se um dos headsets para PC mais acessíveis em termos do mesmo, cada vez ganhando mais market share.
+
+Hardware - Oculus Rift (CV1)
+	O pacote de lançamento inclui o Oculus Rift, versão final de consumidor 1 (CV1), com headphones integrados; sensor externo de posicionamento, comando à distância, cabos para ligação ao PC, um comando XBox One e ainda os jogos Eve: Valkyrie e Lucky's Tale[3]
+	O Rift possui dois ecrãs OLED, um para cada olho, com uma resolução de 1080x1200 cada, uma taxa de actualização de 90Hz, ocupando uma grande parte do campo visual.
+	Integra três giroscópios que lhe permitem monitorizar a orientação da cabeça do utilizador e um par de headphones que podem ser recolhidos caso o utilizador não os queira utilizar, sendo que é recomendável o uso de headphones ou earphones para que possa ser simulado audio 3D.
+	A unidade visual é ligada ao PC através de HDMI e de USB. O detector de posicionamento utiliza USB para comunicar informação de posição.
+
+Requisítos
+	A Oculus recomenda um PC Windows com um CPU Intel Core i3-6100, placa gráfica NVidia GTX 960 e 8GB de RAM (requisitos mínimos), de modo a garantir uma experiência aceitável com o Rift, mas é fortemente recomendável que as capacidades estejam acima das mínimas, visto que jogar em realidade virtual requer cerca de 3x a potência computacional comparado a jogar em Full HD, o que pode contribuir para afastar esta nova experiência da maioria do público.
+	A Futuremark desenvolveu as suas ferramentas gratuitas de benchmarking (http://www.futuremark.com/benchmarks/3dmark) (testes de esforço padronizados) para que qualquer utilizador possa avaliar se o seu PC está pronto para o Oculus Rift e quão boa experiência pode esperar. A própria Oculus oferece computadores em seu site, tendo preços variados de $799 a $1511, dependendo de sua especificação.
